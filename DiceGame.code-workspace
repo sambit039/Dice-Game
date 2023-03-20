@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Dicee Challenge - Completed/Dicee Challenge - Completed"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DiceGame"
+	}
+}
